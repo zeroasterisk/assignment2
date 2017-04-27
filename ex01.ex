@@ -43,9 +43,9 @@ defmodule Ex01 do
 
   ##################
   # 1.2:  5 points #
-  ##########################################################
-  # Write a function that adds two numbers using & syntax  #
-  ##########################################################
+  #########################################################
+  # Write a function that adds two numbers using & syntax #
+  #########################################################
 
   sum2b = your_anonymous_function(1, 2)
 
@@ -56,8 +56,8 @@ defmodule Ex01 do
   # 1.3:  5 points #
   #####################################################################
   # Write a function that adds three numbers. Use the fn syntax, and  #
-  # use the sum2() function you defined above inside it (so there are #
-  # no explicit + operators in your function                          #
+  # use the sum2a() function you defined above inside it (so there    #
+  # are no explicit + operators in your function                      #
   #####################################################################
 
   sum3a = your_anonymous_function(1, 2, 3)
@@ -79,7 +79,7 @@ defmodule Ex01 do
   ##################
   # 1.5: 10 points #
   ########################################################################
-  # Write a function then takes a numeric parameter, and returns another #
+  # Write a function that takes a numeric parameter, and returns another #
   # function. This second function also takes a numeric parameter. When  #
   # you call the second function with a parameter, it returns the        #
   # sum of that parameter and the parameter passed to the first          #
