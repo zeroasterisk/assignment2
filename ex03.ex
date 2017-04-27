@@ -55,7 +55,7 @@ defmodule Ex03 do
 
   """
 
-  def odd_even . . . "your code"
+  def odd_even, do: "your code"
 
 
   ##############################################################################
@@ -77,7 +77,7 @@ defmodule Ex03 do
 
   """
 
-  def list_contains . .. "your code"
+  def list_contains, do: "your code"
 
   ##############################################################################
   # 3.3:  5 points #
@@ -101,8 +101,7 @@ defmodule Ex03 do
 
   """
 
-  def list_equal . . . "your code"
-
+  def list_equal, do: "your code"
 
 
   ##############################################################################
@@ -149,8 +148,7 @@ defmodule Ex03 do
   Think a little about a nice way to lay this code out.
   """
 
-  def won . . . "your code"
-
+  def won, do: "your code"
 
   ###########################
   # IGNORE FROM HERE TO END #
